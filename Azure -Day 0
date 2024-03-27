@@ -1,0 +1,51 @@
+Azure
+
+Server has local storage cpu ram and able to run applications
+
+System administrator-procure multiple server
+
+Private cloud - because of security reasons
+
+	1. 24 X 7 support
+	2. Overhead
+	3. Maintainence
+	4. Cost
+
+
+Public cloud
+
+Hybrid cloud
+
+Multi cloud- mix of cloud providers
+
+Cloud computing- access applications on cloud
+
+Virtualization-=
+Virtual machine=
+API=deploy an application
+Someone who want to test scripts/error through programmatically
+Shell script provide API - 1000 numbers vm
+
+Regions=geographical identification
+Setup data center throughout the world
+
+Availability zones=data center
+Replica is nothing but a copy
+Loadbalancers
+Is to balance the traffic
+
+Scalability - no of users are increasing dynamically
+Increase in traffic
+Autoscaling means you will tell azure platform automatically scale virtual machines
+You can perform manual scaling
+Horizontal scaling
+Vertical scaling
+
+Elasticity
+Dynamically scalling
+
+High availability - making application available most of the time.
+Infrastructure that requires application to be high availability
+
+Disaster recovery is a technique
+Plan if something goes wrong
